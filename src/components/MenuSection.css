@@ -17,7 +17,7 @@
 .menu-card {
     background: var(--white);
     border-radius: 30px;
-    overflow: visible;
+    overflow: hidden;
     box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
     cursor: pointer;
     display: flex;
